@@ -12,7 +12,7 @@ Pages in the Report
 Sales Overview:
 * Line Chart- Showing Sales Performance through the years(2022-2025)
 * Stacked Bar Chart- Shows Sales Performance by Product Category
-* Pie Chart- Shows state contribution in the East Region
+* Donut Chart- Shows state contribution in the East Region
 * Slicers to filter based on state and year for further analysis
 Top Books:
 * List of our books and how much they made throughout the years(2022-2025)
